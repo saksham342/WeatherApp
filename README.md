@@ -17,7 +17,7 @@ WeatherApp is a simple Python application that retrieves and displays weather in
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/WeatherApp.git
+    git clone https://github.com/saksham342/WeatherApp.git
     cd WeatherApp
     ```
 
